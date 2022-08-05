@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 My  website designing Work:  
 [Cafe Coffee](https://mrunalisa.github.io/cafe/home.html)  
-[Nashik Tourist Places](https://mrunalisa.github.io/nashikplacewebsite/nashikplaces.html)  
+[Nashik Tourist Places](https://mrunalisa.github.io/nashikplacewebsite/index.html)  
 [CB](https://mrunalisa.github.io/cb/index.html)  
 [Tourism Bookings](https://mrunalisa.github.io/riset/index.html)  
