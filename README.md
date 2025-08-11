@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Mrunali%20Badgujar&fontSize=40&fontColor=fff&animation=fadeIn" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=500&lines=Hello+World!+👋;Passionate+Developer+%26+Learner;Exploring+Web%2C+AI%2C+Android%2C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=600&lines=Hello+World!+👋;Passionate+Developer+%26+Learner;Exploring+Web%2C+AI%2C+Android%2C+Open+Source)](https://git.io/typing-svg)
 
 ---
 
