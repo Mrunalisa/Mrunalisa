@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me  
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Computer Science & Engineering** student
+- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo4YmwxeWJjZGt2b2diY2Vpb2xoZXlxODlka25sczVnc3BmNXAwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ForTF8hGB1CB6DtFu/giphy.gif" width="28"> **Computer Science & Engineering** student
 - <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGliOGQ1dTRmMXl3bm45bGhsNGdsaWViMjN0Mm9qZ29peHlpdzlscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSZTGUtpQr0u7cfveB/giphy.gif" width="28"> Exploring **Web Development, AI/DS, Android Development** 
 - <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Interested in **Open Source Contributions**  
 - <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"> Currently learning **ReactJS**  
@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrunali-badgujar&show_icons=true&theme=radical" alt="GitHub stats" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunali-badgujar&theme=radical" alt="GitHub streak" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mrunalisa&show_icons=true&theme=radical" alt="GitHub stats" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalisa&theme=radical" alt="GitHub streak" height="160px"/>
 </p>
 
 ---
