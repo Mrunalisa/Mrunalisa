@@ -52,8 +52,19 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mrunalisa&show_icons=true&theme=radical" alt="GitHub stats" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalisa&theme=radical" alt="GitHub streak" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrunalisa&show_icons=true&theme=radical" alt="GitHub stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalisa&theme=radical" alt="GitHub streak" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrunalisa&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrunalisa&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
