@@ -69,6 +69,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrunalisa&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+ ---
+
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrunali-badgujar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
