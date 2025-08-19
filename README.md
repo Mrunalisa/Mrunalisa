@@ -68,6 +68,11 @@
 </p>
 
 ---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Mrunalisa/Mrunalisa/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrunali-badgujar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
