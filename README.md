@@ -50,7 +50,8 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Contributions  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mrunalisa&show_icons=true&theme=radical" alt="GitHub stats" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalisa&theme=radical" alt="GitHub streak" height="160px"/>
@@ -62,9 +63,16 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph (Till Date)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrunalisa&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Mrunalisa/Mrunalisa/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -74,7 +82,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mrunalisa&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
- ---
+---
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrunali-badgujar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
