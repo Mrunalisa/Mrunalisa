@@ -69,9 +69,9 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Mrunalisa/Mrunalisa/blob/output/snake.svg)
+## 🐍 Contribution Snake
+![snake animation](https://github.com/Mrunalisa/Mrunalisa/blob/output/snake.svg)
 
 ---
 
